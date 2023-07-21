@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Rudraksha 
-- 👀 I’m interested in Data science 
-- 🌱 I’m currently learning modelling 
+- 👋 Hi, I’m @Rudraksha Makwana
+- 👀 I’m a Data Analyst and data science enthusiast 
+- 🌱 I’m currently working as Product Analyst 
 - 💞️ I’m looking to collaborate on analysis projects 
 - 📫 How to reach me 9888230639
 
