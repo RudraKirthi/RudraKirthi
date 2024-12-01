@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Rudraksha Makwana
-- 👀 I’m a Data Analyst and data science enthusiast 
-- 🌱 I’m currently working as Product Analyst 
+- 🌱 I’m currently working as Business Analyst - have 4+ years of experience. 
 - 💞️ I’m looking to collaborate on Data Science Projects 
 - 📫 How to reach me 9888230639
 
